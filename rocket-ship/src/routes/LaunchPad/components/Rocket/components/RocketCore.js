@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/_rocket.scss';
 
-const SECONDS_TO_TAKEOFF = 5;
+const SECONDS_TO_TAKEOFF = 0;
 const MS_TO_TAKEOFF = SECONDS_TO_TAKEOFF * 1000;
 const FINAL_POSITION_BOTTOM_VAL = 'calc(400px)';
 
